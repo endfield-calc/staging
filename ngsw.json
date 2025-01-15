@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1736945422242,
+  "timestamp": 1736947801937,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -129,7 +129,7 @@
     "/staging/assets/i18n/fr.json": "6ce7ace0e119feaa52d8c8433e1bbc667cae44d4",
     "/staging/assets/i18n/ja.json": "5065bd2227acae0d1b5d64c343ea349d250888b0",
     "/staging/assets/i18n/ru.json": "ddf363b3a14f2e5a7c741958d4f026247e73776b",
-    "/staging/assets/i18n/zh.json": "b3653650570483e5b1a9d0bc5407b1801e56f757",
+    "/staging/assets/i18n/zh.json": "6b62768b9b7721b713187cd9e15cca4d5ab9b45a",
     "/staging/assets/release.json": "8c361ad56326ac8b2b3c1c8eb9996d0a9ca85d7e",
     "/staging/chunk-2ODFU6P2.js": "3f230f1b6603a1d04bb238ef98bfbc5c46b7ae3d",
     "/staging/chunk-2Y4RC2WA.js": "72e56290aee4366e2df9131e18c550a3247a4711",
