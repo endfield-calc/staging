@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1737007256379,
+  "timestamp": 1737019278339,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -99,6 +99,7 @@
         "/staging/data/1.1/i18n/zh.json",
         "/staging/data/1.1/icons.webp",
         "/staging/data/aef/data-dsp.json",
+        "/staging/data/aef/data-sfy.json",
         "/staging/data/aef/data-spa.json",
         "/staging/data/aef/data.json",
         "/staging/data/aef/defaults.json",
@@ -188,6 +189,7 @@
     "/staging/data/1.1/i18n/zh.json": "6643d3c9a8db174bc0ba8020beebb888a683fe09",
     "/staging/data/1.1/icons.webp": "c22aebdfe156f65a85da43c75b60cac7aac7a1b8",
     "/staging/data/aef/data-dsp.json": "7244fab1d16f01f0d334894d2798d8dcd1976932",
+    "/staging/data/aef/data-sfy.json": "c40554ba0e2d0d4a1dbadcb1e26da9bc2ba77132",
     "/staging/data/aef/data-spa.json": "94c603fdbbc494626ccc1be4c8e4c7736ebd34b9",
     "/staging/data/aef/data.json": "b6158b8ddc81f8e7d6956c57c071e8542f1a6d63",
     "/staging/data/aef/defaults.json": "39f560850680104c886d8f39ba23cfd953d47af3",
