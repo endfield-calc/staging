@@ -4301,5 +4301,11 @@
       },
       "category": "material"
     }
-  ]
+  ],
+  "defaults": {
+    "minBelt": "belt",
+    "maxBelt": "belt",
+    "minPipe": "pipe",
+    "maxPipe": "pipe"
+  }
 }
