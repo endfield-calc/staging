@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1737136184279,
+  "timestamp": 1737137123797,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -105,7 +105,6 @@
         "/staging/data/aef/defaults.json",
         "/staging/data/aef/hash.json",
         "/staging/data/aef/icons.webp",
-        "/staging/data/aef/map.json",
         "/staging/data/index.ts",
         "/staging/factoriolab.webp",
         "/staging/favicon-128x128.png",
@@ -190,11 +189,10 @@
     "/staging/data/aef/data-dsp.json": "7244fab1d16f01f0d334894d2798d8dcd1976932",
     "/staging/data/aef/data-sfy.json": "c40554ba0e2d0d4a1dbadcb1e26da9bc2ba77132",
     "/staging/data/aef/data-spa.json": "94c603fdbbc494626ccc1be4c8e4c7736ebd34b9",
-    "/staging/data/aef/data.json": "2ba115d808f06636c1cb1dd6dbdb6398bc018958",
+    "/staging/data/aef/data.json": "8b72e10b2bcff205d6d63a683c692d940f6a16dc",
     "/staging/data/aef/defaults.json": "39f560850680104c886d8f39ba23cfd953d47af3",
-    "/staging/data/aef/hash.json": "cca9816b36ba5c592e564be39d7ddd9056e72b21",
+    "/staging/data/aef/hash.json": "f586c022f7b9a9f8954103227683496a5130bc4a",
     "/staging/data/aef/icons.webp": "4ceed52f57f7acba254df71195214b12bbb63bc2",
-    "/staging/data/aef/map.json": "1721e509dfc35320ea7538a43df61c9c29aba710",
     "/staging/data/index.ts": "1b609d647e038a74941527fcfc4c9b589d725ecd",
     "/staging/factoriolab.webp": "0994ab2d6435fc680f9fe8eca7f59cf3f709f599",
     "/staging/favicon-128x128.png": "983e77afd570f31ac052b051c3195ad4f868abf6",
