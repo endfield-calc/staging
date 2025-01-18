@@ -137,7 +137,7 @@
     },
     {
       "id": "item_plant_moss_1",
-      "position": "0px 0px"
+      "position": "-64px 0px"
     },
     {
       "id": "item_carbon_mtl",
@@ -145,7 +145,7 @@
     },
     {
       "id": "item_plant_moss_2",
-      "position": "0px 0px"
+      "position": "-128px 0px"
     },
     {
       "id": "item_plant_moss_3",
@@ -213,7 +213,7 @@
     },
     {
       "id": "item_originium_ore",
-      "position": "0px 0px"
+      "position": "-192px 0px"
     },
     {
       "id": "item_crystal_shell",
@@ -225,7 +225,7 @@
     },
     {
       "id": "item_iron_ore",
-      "position": "0px 0px"
+      "position": "-256px 0px"
     },
     {
       "id": "item_iron_powder",
@@ -237,7 +237,7 @@
     },
     {
       "id": "item_quartz_sand",
-      "position": "0px 0px"
+      "position": "-320px 0px"
     },
     {
       "id": "item_quartz_powder",
@@ -265,11 +265,11 @@
     },
     {
       "id": "item_plant_moss_seed_1",
-      "position": "0px 0px"
+      "position": "-384px 0px"
     },
     {
       "id": "item_plant_moss_seed_2",
-      "position": "0px 0px"
+      "position": "-448px 0px"
     },
     {
       "id": "item_plant_moss_seed_3",
@@ -2089,6 +2089,7 @@
           "tech_jinlong_1_mix_1"
         ],
         "unlockedRecipes": [
+          "filling_bottled_food_4_1",
           "filling_bottled_food_4_2",
           "filling_bottled_food_5_1",
           "filling_bottled_rec_hp_4_1",
@@ -2879,7 +2880,13 @@
       "out": {
         "item_bottled_food_4": 1
       },
-      "category": "tacticalitem"
+      "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
+      "flags": [
+        "locked"
+      ]
     },
     {
       "id": "filling_bottled_food_4_2",
@@ -2897,6 +2904,9 @@
         "item_bottled_food_4": 1
       },
       "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -2917,6 +2927,9 @@
         "item_bottled_food_5": 1
       },
       "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -2988,6 +3001,9 @@
         "item_bottled_rec_hp_4": 1
       },
       "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3008,6 +3024,9 @@
         "item_bottled_rec_hp_4": 1
       },
       "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3028,6 +3047,9 @@
         "item_bottled_rec_hp_5": 1
       },
       "category": "tacticalitem",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3273,6 +3295,9 @@
         "item_liquid_sewage": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3422,6 +3447,9 @@
         "item_liquid_sewage": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3682,6 +3710,9 @@
         "item_plant_grass_1": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3702,6 +3733,9 @@
         "item_plant_grass_2": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -3769,7 +3803,10 @@
       "out": {
         "item_liquid_plant_grass_1": 1
       },
-      "category": "material"
+      "category": "material",
+      "locations": [
+        "jinlong"
+      ]
     },
     {
       "id": "pool_liquid_plant_grass_2_1",
@@ -3786,7 +3823,10 @@
       "out": {
         "item_liquid_plant_grass_2": 1
       },
-      "category": "material"
+      "category": "material",
+      "locations": [
+        "jinlong"
+      ]
     },
     {
       "id": "seedcollector_plant_bbflower_1",
@@ -3965,6 +4005,9 @@
         "item_liquid_sewage": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
@@ -4050,6 +4093,9 @@
         "item_liquid_sewage": 1
       },
       "category": "material",
+      "locations": [
+        "jinlong"
+      ],
       "flags": [
         "locked"
       ]
