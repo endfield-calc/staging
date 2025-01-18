@@ -13,11 +13,11 @@
     },
     {
       "id": "item_quartz_glass",
-      "position": "0px 0px"
+      "position": "-64px 0px"
     },
     {
       "id": "item_glass_cmpt",
-      "position": "0px 0px"
+      "position": "-128px 0px"
     },
     {
       "id": "item_quartz_enr",
@@ -29,11 +29,11 @@
     },
     {
       "id": "item_iron_nugget",
-      "position": "0px 0px"
+      "position": "-192px 0px"
     },
     {
       "id": "item_iron_cmpt",
-      "position": "0px 0px"
+      "position": "-256px 0px"
     },
     {
       "id": "item_iron_enr",
@@ -45,23 +45,23 @@
     },
     {
       "id": "item_glass_bottle",
-      "position": "0px 0px"
+      "position": "-320px 0px"
     },
     {
       "id": "item_plant_moss_powder_2",
-      "position": "0px 0px"
+      "position": "-384px 0px"
     },
     {
       "id": "item_bottled_food_1",
-      "position": "0px 0px"
+      "position": "-448px 0px"
     },
     {
       "id": "item_iron_bottle",
-      "position": "0px 0px"
+      "position": "-512px 0px"
     },
     {
       "id": "item_bottled_food_2",
-      "position": "0px 0px"
+      "position": "-576px 0px"
     },
     {
       "id": "item_iron_enr_bottle",
@@ -97,15 +97,15 @@
     },
     {
       "id": "item_plant_moss_powder_1",
-      "position": "0px 0px"
+      "position": "-640px 0px"
     },
     {
       "id": "item_bottled_rec_hp_1",
-      "position": "0px 0px"
+      "position": "-704px 0px"
     },
     {
       "id": "item_bottled_rec_hp_2",
-      "position": "0px 0px"
+      "position": "-768px 0px"
     },
     {
       "id": "item_plant_moss_enr_powder_1",
@@ -137,15 +137,15 @@
     },
     {
       "id": "item_plant_moss_1",
-      "position": "-64px 0px"
+      "position": "0px -64px"
     },
     {
       "id": "item_carbon_mtl",
-      "position": "0px 0px"
+      "position": "-64px -64px"
     },
     {
       "id": "item_plant_moss_2",
-      "position": "-128px 0px"
+      "position": "-128px -64px"
     },
     {
       "id": "item_plant_moss_3",
@@ -165,7 +165,7 @@
     },
     {
       "id": "item_carbon_powder",
-      "position": "0px 0px"
+      "position": "-192px -64px"
     },
     {
       "id": "item_plant_moss_powder_3",
@@ -205,19 +205,19 @@
     },
     {
       "id": "item_originium_powder",
-      "position": "0px 0px"
+      "position": "-256px -64px"
     },
     {
       "id": "item_crystal_powder",
-      "position": "0px 0px"
+      "position": "-320px -64px"
     },
     {
       "id": "item_originium_ore",
-      "position": "-192px 0px"
+      "position": "-384px -64px"
     },
     {
       "id": "item_crystal_shell",
-      "position": "0px 0px"
+      "position": "-448px -64px"
     },
     {
       "id": "item_iron_enr_powder",
@@ -225,11 +225,11 @@
     },
     {
       "id": "item_iron_ore",
-      "position": "-256px 0px"
+      "position": "-512px -64px"
     },
     {
       "id": "item_iron_powder",
-      "position": "0px 0px"
+      "position": "-576px -64px"
     },
     {
       "id": "item_quartz_enr_powder",
@@ -237,23 +237,23 @@
     },
     {
       "id": "item_quartz_sand",
-      "position": "-320px 0px"
+      "position": "-640px -64px"
     },
     {
       "id": "item_quartz_powder",
-      "position": "0px 0px"
+      "position": "-704px -64px"
     },
     {
       "id": "item_plant_bbflower_1",
-      "position": "0px 0px"
+      "position": "-768px -64px"
     },
     {
       "id": "item_plant_bbflower_powder_1",
-      "position": "0px 0px"
+      "position": "0px -128px"
     },
     {
       "id": "item_plant_bbflower_seed_1",
-      "position": "0px 0px"
+      "position": "-64px -128px"
     },
     {
       "id": "item_plant_grass_seed_1",
@@ -265,11 +265,11 @@
     },
     {
       "id": "item_plant_moss_seed_1",
-      "position": "-384px 0px"
+      "position": "-128px -128px"
     },
     {
       "id": "item_plant_moss_seed_2",
-      "position": "-448px 0px"
+      "position": "-192px -128px"
     },
     {
       "id": "item_plant_moss_seed_3",
@@ -313,11 +313,11 @@
     },
     {
       "id": "item_proc_battery_1",
-      "position": "0px 0px"
+      "position": "-256px -128px"
     },
     {
       "id": "item_proc_battery_2",
-      "position": "0px 0px"
+      "position": "-320px -128px"
     },
     {
       "id": "item_proc_battery_3",
@@ -325,15 +325,15 @@
     },
     {
       "id": "item_proc_bomb_1",
-      "position": "0px 0px"
+      "position": "-384px -128px"
     },
     {
       "id": "item_equip_script_1",
-      "position": "0px 0px"
+      "position": "-448px -128px"
     },
     {
       "id": "item_equip_script_2",
-      "position": "0px 0px"
+      "position": "-512px -128px"
     },
     {
       "id": "item_equip_script_3",
