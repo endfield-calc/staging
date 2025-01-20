@@ -16,7 +16,7 @@
     "migrationWarning": "Migration warning",
     "swUpdate": {
       "detectSummary": "New Version Detected",
-      "detectDetail": "Downloading new version...",
+      "detectDetail": "Downloading new version, please wait...",
       "readySummary": "Version Ready",
       "readyDetail": "Please refresh page to use new version",
       "installationFailSummary": "Version Installation Failed",
