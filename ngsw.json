@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1738030619718,
+  "timestamp": 1738030836322,
   "index": "/staging/index.html",
   "assetGroups": [
     {
@@ -102,7 +102,7 @@
         "/staging/data/aef/data-sfy.json",
         "/staging/data/aef/data-spa.json",
         "/staging/data/aef/data.json",
-        "/staging/data/aef/defaults.json",
+        "/staging/data/aef/defaults-spa.json",
         "/staging/data/aef/hash.json",
         "/staging/data/aef/icons.webp",
         "/staging/data/index.ts",
@@ -190,7 +190,7 @@
     "/staging/data/aef/data-sfy.json": "c40554ba0e2d0d4a1dbadcb1e26da9bc2ba77132",
     "/staging/data/aef/data-spa.json": "94c603fdbbc494626ccc1be4c8e4c7736ebd34b9",
     "/staging/data/aef/data.json": "28b53f11ca35433f01cac745337c125b9d65b4e0",
-    "/staging/data/aef/defaults.json": "39f560850680104c886d8f39ba23cfd953d47af3",
+    "/staging/data/aef/defaults-spa.json": "39f560850680104c886d8f39ba23cfd953d47af3",
     "/staging/data/aef/hash.json": "d8fee5b62e57f11b8e4ac20c2f162463da5bd799",
     "/staging/data/aef/icons.webp": "01a99c5d70526ecda1fc9ca139f91973c6742b21",
     "/staging/data/index.ts": "1b609d647e038a74941527fcfc4c9b589d725ecd",
